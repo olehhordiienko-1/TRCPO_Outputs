@@ -1,0 +1,614 @@
+==========================================
+STARTING TESTS FOR N = 500000
+==========================================
+
+N=500000 Sequential scalar product: 1223409995, Time: 0.0007613 sec
+==== Parallel Scalar Product N=500000 Run #1 ====
+Scatter time: 0.000637 sec
+Compute time: 0.0002053 sec
+Reduce time: 3.21e-05 sec
+Scalar product: 1223409995
+Total parallel time: 0.0011651 sec
+
+N=500000 Sequential scalar product: 1223409995, Time: 0.0007407 sec
+==== Parallel Scalar Product N=500000 Run #2 ====
+Scatter time: 0.0001768 sec
+Compute time: 0.0002006 sec
+Reduce time: 1.31e-05 sec
+Scalar product: 1223409995
+Total parallel time: 0.0005375 sec
+
+N=500000 Sequential scalar product: 1223409995, Time: 0.0007304 sec
+==== Parallel Scalar Product N=500000 Run #3 ====
+Scatter time: 0.000174 sec
+Compute time: 0.0001934 sec
+Reduce time: 0.0001263 sec
+Scalar product: 1223409995
+Total parallel time: 0.00064 sec
+
+N=500000 Sequential scalar product: 1223409995, Time: 0.0007522 sec
+==== Parallel Scalar Product N=500000 Run #4 ====
+Scatter time: 0.0001818 sec
+Compute time: 0.0001927 sec
+Reduce time: 3.02e-05 sec
+Scalar product: 1223409995
+Total parallel time: 0.0005479 sec
+
+N=500000 Sequential scalar product: 1223409995, Time: 0.0007456 sec
+==== Parallel Scalar Product N=500000 Run #5 ====
+Scatter time: 0.0001732 sec
+Compute time: 0.0001965 sec
+Reduce time: 2.00999e-05 sec
+Scalar product: 1223409995
+Total parallel time: 0.0005379 sec
+
+N=500000 Sequential vector product (first 10): 1296 8004 656 1536 1508 8463 87 0 312 6365 , Time: 0.001382 sec
+==== Parallel Vector Product N=500000 Run #1 ====
+Vector product calculated (first 10 elements): 1296 8004 656 1536 1508 8463 87 0 312 6365
+Total parallel time: 0.0013053 sec
+
+N=500000 Sequential vector product (first 10): 1296 8004 656 1536 1508 8463 87 0 312 6365 , Time: 0.0013889 sec
+==== Parallel Vector Product N=500000 Run #2 ====
+Vector product calculated (first 10 elements): 1296 8004 656 1536 1508 8463 87 0 312 6365
+Total parallel time: 0.0012522 sec
+
+N=500000 Sequential vector product (first 10): 1296 8004 656 1536 1508 8463 87 0 312 6365 , Time: 0.0013957 sec
+==== Parallel Vector Product N=500000 Run #3 ====
+Vector product calculated (first 10 elements): 1296 8004 656 1536 1508 8463 87 0 312 6365
+Total parallel time: 0.0012414 sec
+
+N=500000 Sequential vector product (first 10): 1296 8004 656 1536 1508 8463 87 0 312 6365 , Time: 0.0014056 sec
+==== Parallel Vector Product N=500000 Run #4 ====
+Vector product calculated (first 10 elements): 1296 8004 656 1536 1508 8463 87 0 312 6365
+Total parallel time: 0.0011973 sec
+
+N=500000 Sequential vector product (first 10): 1296 8004 656 1536 1508 8463 87 0 312 6365 , Time: 0.0013781 sec
+==== Parallel Vector Product N=500000 Run #5 ====
+Vector product calculated (first 10 elements): 1296 8004 656 1536 1508 8463 87 0 312 6365
+Total parallel time: 0.0012054 sec
+
+N=500000 Sequential min: 0, max: 999, Time: 0.0033022 sec
+==== Parallel Min/Max N=500000 Run #1 ====
+Min: 0, Max: 999
+Total parallel time: 0.001061 sec
+
+N=500000 Sequential min: 0, max: 999, Time: 0.0033748 sec
+==== Parallel Min/Max N=500000 Run #2 ====
+Min: 0, Max: 999
+Total parallel time: 0.0010005 sec
+
+N=500000 Sequential min: 0, max: 999, Time: 0.0032679 sec
+==== Parallel Min/Max N=500000 Run #3 ====
+Min: 0, Max: 999
+Total parallel time: 0.0010112 sec
+
+N=500000 Sequential min: 0, max: 999, Time: 0.0032624 sec
+==== Parallel Min/Max N=500000 Run #4 ====
+Min: 0, Max: 999
+Total parallel time: 0.0010202 sec
+
+N=500000 Sequential min: 0, max: 999, Time: 0.0033637 sec
+==== Parallel Min/Max N=500000 Run #5 ====
+Min: 0, Max: 999
+Total parallel time: 0.0009904 sec
+
+N=500000 Sequential average: 497.41, Time: 0.0011938 sec
+==== Parallel Average N=500000 Run #1 ====
+Average: 497.41
+Total parallel time: 0.0004892 sec
+
+N=500000 Sequential average: 497.41, Time: 0.0011549 sec
+==== Parallel Average N=500000 Run #2 ====
+Average: 497.41
+Total parallel time: 0.0004621 sec
+
+N=500000 Sequential average: 497.41, Time: 0.0011514 sec
+==== Parallel Average N=500000 Run #3 ====
+Average: 497.41
+Total parallel time: 0.0004582 sec
+
+N=500000 Sequential average: 497.41, Time: 0.0011813 sec
+==== Parallel Average N=500000 Run #4 ====
+Average: 497.41
+Total parallel time: 0.0004698 sec
+
+N=500000 Sequential average: 497.41, Time: 0.0011954 sec
+==== Parallel Average N=500000 Run #5 ====
+Average: 497.41
+Total parallel time: 0.0004773 sec
+
+==========================================
+COMPLETED TESTS FOR N = 500000
+==========================================
+
+==========================================
+STARTING TESTS FOR N = 1000000
+==========================================
+
+N=1000000 Sequential scalar product: 2447726541, Time: 0.0015118 sec
+==== Parallel Scalar Product N=1000000 Run #1 ====
+Scatter time: 0.0006665 sec
+Compute time: 0.0003823 sec
+Reduce time: 8.84e-05 sec
+Scalar product: 2447726541
+Total parallel time: 0.0017998 sec
+
+N=1000000 Sequential scalar product: 2447726541, Time: 0.0015934 sec
+==== Parallel Scalar Product N=1000000 Run #2 ====
+Scatter time: 0.0005036 sec
+Compute time: 0.0003831 sec
+Reduce time: 8.61001e-05 sec
+Scalar product: 2447726541
+Total parallel time: 0.0016603 sec
+
+N=1000000 Sequential scalar product: 2447726541, Time: 0.0015002 sec
+==== Parallel Scalar Product N=1000000 Run #3 ====
+Scatter time: 0.0003846 sec
+Compute time: 0.0003821 sec
+Reduce time: 5.94001e-05 sec
+Scalar product: 2447726541
+Total parallel time: 0.0014686 sec
+
+N=1000000 Sequential scalar product: 2447726541, Time: 0.0015097 sec
+==== Parallel Scalar Product N=1000000 Run #4 ====
+Scatter time: 0.0004155 sec
+Compute time: 0.0003857 sec
+Reduce time: 6.45e-05 sec
+Scalar product: 2447726541
+Total parallel time: 0.0016349 sec
+
+N=1000000 Sequential scalar product: 2447726541, Time: 0.0023205 sec
+==== Parallel Scalar Product N=1000000 Run #5 ====
+Scatter time: 0.0004433 sec
+Compute time: 0.0003849 sec
+Reduce time: 7.09e-05 sec
+Scalar product: 2447726541
+Total parallel time: 0.0015595 sec
+
+N=1000000 Sequential vector product (first 10): 1176 2698 1386 3150 84 3400 2322 6216 216 72 , Time: 0.0027865 sec
+==== Parallel Vector Product N=1000000 Run #1 ====
+Vector product calculated (first 10 elements): 1176 2698 1386 3150 84 3400 2322 6216 216 72
+Total parallel time: 0.0031501 sec
+
+N=1000000 Sequential vector product (first 10): 1176 2698 1386 3150 84 3400 2322 6216 216 72 , Time: 0.0027706 sec
+==== Parallel Vector Product N=1000000 Run #2 ====
+Vector product calculated (first 10 elements): 1176 2698 1386 3150 84 3400 2322 6216 216 72
+Total parallel time: 0.0028703 sec
+
+N=1000000 Sequential vector product (first 10): 1176 2698 1386 3150 84 3400 2322 6216 216 72 , Time: 0.0028368 sec
+==== Parallel Vector Product N=1000000 Run #3 ====
+Vector product calculated (first 10 elements): 1176 2698 1386 3150 84 3400 2322 6216 216 72
+Total parallel time: 0.0029576 sec
+
+N=1000000 Sequential vector product (first 10): 1176 2698 1386 3150 84 3400 2322 6216 216 72 , Time: 0.0027503 sec
+==== Parallel Vector Product N=1000000 Run #4 ====
+Vector product calculated (first 10 elements): 1176 2698 1386 3150 84 3400 2322 6216 216 72
+Total parallel time: 0.0029622 sec
+
+N=1000000 Sequential vector product (first 10): 1176 2698 1386 3150 84 3400 2322 6216 216 72 , Time: 0.0027572 sec
+==== Parallel Vector Product N=1000000 Run #5 ====
+Vector product calculated (first 10 elements): 1176 2698 1386 3150 84 3400 2322 6216 216 72
+Total parallel time: 0.0028934 sec
+
+N=1000000 Sequential min: 0, max: 999, Time: 0.0065618 sec
+==== Parallel Min/Max N=1000000 Run #1 ====
+Min: 0, Max: 999
+Total parallel time: 0.0021136 sec
+
+N=1000000 Sequential min: 0, max: 999, Time: 0.0065692 sec
+==== Parallel Min/Max N=1000000 Run #2 ====
+Min: 0, Max: 999
+Total parallel time: 0.0020323 sec
+
+N=1000000 Sequential min: 0, max: 999, Time: 0.0065453 sec
+==== Parallel Min/Max N=1000000 Run #3 ====
+Min: 0, Max: 999
+Total parallel time: 0.0021016 sec
+
+N=1000000 Sequential min: 0, max: 999, Time: 0.0065512 sec
+==== Parallel Min/Max N=1000000 Run #4 ====
+Min: 0, Max: 999
+Total parallel time: 0.0021771 sec
+
+N=1000000 Sequential min: 0, max: 999, Time: 0.0066553 sec
+==== Parallel Min/Max N=1000000 Run #5 ====
+Min: 0, Max: 999
+Total parallel time: 0.0022505 sec
+
+N=1000000 Sequential average: 496.396, Time: 0.0023876 sec
+==== Parallel Average N=1000000 Run #1 ====
+Average: 496.396
+Total parallel time: 0.0012809 sec
+
+N=1000000 Sequential average: 496.396, Time: 0.0023156 sec
+==== Parallel Average N=1000000 Run #2 ====
+Average: 496.396
+Total parallel time: 0.0009466 sec
+
+N=1000000 Sequential average: 496.396, Time: 0.0023112 sec
+==== Parallel Average N=1000000 Run #3 ====
+Average: 496.396
+Total parallel time: 0.0009265 sec
+
+N=1000000 Sequential average: 496.396, Time: 0.0023127 sec
+==== Parallel Average N=1000000 Run #4 ====
+Average: 496.396
+Total parallel time: 0.0009732 sec
+
+N=1000000 Sequential average: 496.396, Time: 0.0024103 sec
+==== Parallel Average N=1000000 Run #5 ====
+Average: 496.396
+Total parallel time: 0.0009322 sec
+
+==========================================
+COMPLETED TESTS FOR N = 1000000
+==========================================
+
+==========================================
+STARTING TESTS FOR N = 5000000
+==========================================
+
+N=5000000 Sequential scalar product: 12231591103, Time: 0.0076114 sec
+==== Parallel Scalar Product N=5000000 Run #1 ====
+Scatter time: 0.0047129 sec
+Compute time: 0.0021102 sec
+Reduce time: 0.0005262 sec
+Scalar product: 12231591103
+Total parallel time: 0.0101693 sec
+
+N=5000000 Sequential scalar product: 12231591103, Time: 0.008162 sec
+==== Parallel Scalar Product N=5000000 Run #2 ====
+Scatter time: 0.0048165 sec
+Compute time: 0.001944 sec
+Reduce time: 0.0008763 sec
+Scalar product: 12231591103
+Total parallel time: 0.010081 sec
+
+N=5000000 Sequential scalar product: 12231591103, Time: 0.007836 sec
+==== Parallel Scalar Product N=5000000 Run #3 ====
+Scatter time: 0.0044851 sec
+Compute time: 0.0019353 sec
+Reduce time: 0.0007843 sec
+Scalar product: 12231591103
+Total parallel time: 0.0097097 sec
+
+N=5000000 Sequential scalar product: 12231591103, Time: 0.0078943 sec
+==== Parallel Scalar Product N=5000000 Run #4 ====
+Scatter time: 0.0044345 sec
+Compute time: 0.001938 sec
+Reduce time: 0.0006853 sec
+Scalar product: 12231591103
+Total parallel time: 0.0100297 sec
+
+N=5000000 Sequential scalar product: 12231591103, Time: 0.0077639 sec
+==== Parallel Scalar Product N=5000000 Run #5 ====
+Scatter time: 0.0046163 sec
+Compute time: 0.0025253 sec
+Reduce time: 0.0009679 sec
+Scalar product: 12231591103
+Total parallel time: 0.0105371 sec
+
+N=5000000 Sequential vector product (first 10): 1449 1365 144 897 1200 832 6984 4794 960 5236 , Time: 0.0140388 sec
+==== Parallel Vector Product N=5000000 Run #1 ====
+Vector product calculated (first 10 elements): 1449 1365 144 897 1200 832 6984 4794 960 5236
+Total parallel time: 0.0179721 sec
+
+N=5000000 Sequential vector product (first 10): 1449 1365 144 897 1200 832 6984 4794 960 5236 , Time: 0.0147938 sec
+==== Parallel Vector Product N=5000000 Run #2 ====
+Vector product calculated (first 10 elements): 1449 1365 144 897 1200 832 6984 4794 960 5236
+Total parallel time: 0.0186544 sec
+
+N=5000000 Sequential vector product (first 10): 1449 1365 144 897 1200 832 6984 4794 960 5236 , Time: 0.0144803 sec
+==== Parallel Vector Product N=5000000 Run #3 ====
+Vector product calculated (first 10 elements): 1449 1365 144 897 1200 832 6984 4794 960 5236
+Total parallel time: 0.0191027 sec
+
+N=5000000 Sequential vector product (first 10): 1449 1365 144 897 1200 832 6984 4794 960 5236 , Time: 0.0148227 sec
+==== Parallel Vector Product N=5000000 Run #4 ====
+Vector product calculated (first 10 elements): 1449 1365 144 897 1200 832 6984 4794 960 5236
+Total parallel time: 0.0177139 sec
+
+N=5000000 Sequential vector product (first 10): 1449 1365 144 897 1200 832 6984 4794 960 5236 , Time: 0.0148777 sec
+==== Parallel Vector Product N=5000000 Run #5 ====
+Vector product calculated (first 10 elements): 1449 1365 144 897 1200 832 6984 4794 960 5236
+Total parallel time: 0.0190425 sec
+
+N=5000000 Sequential min: 0, max: 999, Time: 0.034123 sec
+==== Parallel Min/Max N=5000000 Run #1 ====
+Min: 0, Max: 999
+Total parallel time: 0.0124931 sec
+
+N=5000000 Sequential min: 0, max: 999, Time: 0.0337237 sec
+==== Parallel Min/Max N=5000000 Run #2 ====
+Min: 0, Max: 999
+Total parallel time: 0.0131426 sec
+
+N=5000000 Sequential min: 0, max: 999, Time: 0.0336576 sec
+==== Parallel Min/Max N=5000000 Run #3 ====
+Min: 0, Max: 999
+Total parallel time: 0.0126149 sec
+
+N=5000000 Sequential min: 0, max: 999, Time: 0.0336019 sec
+==== Parallel Min/Max N=5000000 Run #4 ====
+Min: 0, Max: 999
+Total parallel time: 0.0123707 sec
+
+N=5000000 Sequential min: 0, max: 999, Time: 0.0336195 sec
+==== Parallel Min/Max N=5000000 Run #5 ====
+Min: 0, Max: 999
+Total parallel time: 0.0126202 sec
+
+N=5000000 Sequential average: 496.721, Time: 0.0116299 sec
+==== Parallel Average N=5000000 Run #1 ====
+Average: 496.721
+Total parallel time: 0.0069276 sec
+
+N=5000000 Sequential average: 496.721, Time: 0.011559 sec
+==== Parallel Average N=5000000 Run #2 ====
+Average: 496.721
+Total parallel time: 0.0071131 sec
+
+N=5000000 Sequential average: 496.721, Time: 0.0118833 sec
+==== Parallel Average N=5000000 Run #3 ====
+Average: 496.721
+Total parallel time: 0.0069555 sec
+
+N=5000000 Sequential average: 496.721, Time: 0.0115984 sec
+==== Parallel Average N=5000000 Run #4 ====
+Average: 496.721
+Total parallel time: 0.0081157 sec
+
+N=5000000 Sequential average: 496.721, Time: 0.0117393 sec
+==== Parallel Average N=5000000 Run #5 ====
+Average: 496.721
+Total parallel time: 0.007136 sec
+
+==========================================
+COMPLETED TESTS FOR N = 5000000
+==========================================
+
+==========================================
+STARTING TESTS FOR N = 10000000
+==========================================
+
+N=10000000 Sequential scalar product: 24477276537, Time: 0.0166 sec
+==== Parallel Scalar Product N=10000000 Run #1 ====
+Scatter time: 0.008874 sec
+Compute time: 0.0039569 sec
+Reduce time: 0.0017251 sec
+Scalar product: 24477276537
+Total parallel time: 0.0197067 sec
+
+N=10000000 Sequential scalar product: 24477276537, Time: 0.0155595 sec
+==== Parallel Scalar Product N=10000000 Run #2 ====
+Scatter time: 0.0093724 sec
+Compute time: 0.0038607 sec
+Reduce time: 0.0013509 sec
+Scalar product: 24477276537
+Total parallel time: 0.0197891 sec
+
+N=10000000 Sequential scalar product: 24477276537, Time: 0.015562 sec
+==== Parallel Scalar Product N=10000000 Run #3 ====
+Scatter time: 0.009795 sec
+Compute time: 0.0042129 sec
+Reduce time: 0.0015825 sec
+Scalar product: 24477276537
+Total parallel time: 0.0207581 sec
+
+N=10000000 Sequential scalar product: 24477276537, Time: 0.0153341 sec
+==== Parallel Scalar Product N=10000000 Run #4 ====
+Scatter time: 0.0098718 sec
+Compute time: 0.0041638 sec
+Reduce time: 0.0010251 sec
+Scalar product: 24477276537
+Total parallel time: 0.0204357 sec
+
+N=10000000 Sequential scalar product: 24477276537, Time: 0.0156027 sec
+==== Parallel Scalar Product N=10000000 Run #5 ====
+Scatter time: 0.0089197 sec
+Compute time: 0.0056112 sec
+Reduce time: 5.20004e-06 sec
+Scalar product: 24477276537
+Total parallel time: 0.0193389 sec
+
+N=10000000 Sequential vector product (first 10): 748 2664 1863 740 2268 1681 1035 198 260 3942 , Time: 0.0282048 sec
+==== Parallel Vector Product N=10000000 Run #1 ====
+Vector product calculated (first 10 elements): 748 2664 1863 740 2268 1681 1035 198 260 3942
+Total parallel time: 0.0423465 sec
+
+N=10000000 Sequential vector product (first 10): 748 2664 1863 740 2268 1681 1035 198 260 3942 , Time: 0.0290219 sec
+==== Parallel Vector Product N=10000000 Run #2 ====
+Vector product calculated (first 10 elements): 748 2664 1863 740 2268 1681 1035 198 260 3942
+Total parallel time: 0.038519 sec
+
+N=10000000 Sequential vector product (first 10): 748 2664 1863 740 2268 1681 1035 198 260 3942 , Time: 0.0287861 sec
+==== Parallel Vector Product N=10000000 Run #3 ====
+Vector product calculated (first 10 elements): 748 2664 1863 740 2268 1681 1035 198 260 3942
+Total parallel time: 0.03685 sec
+
+N=10000000 Sequential vector product (first 10): 748 2664 1863 740 2268 1681 1035 198 260 3942 , Time: 0.0298318 sec
+==== Parallel Vector Product N=10000000 Run #4 ====
+Vector product calculated (first 10 elements): 748 2664 1863 740 2268 1681 1035 198 260 3942
+Total parallel time: 0.0379925 sec
+
+N=10000000 Sequential vector product (first 10): 748 2664 1863 740 2268 1681 1035 198 260 3942 , Time: 0.0280403 sec
+==== Parallel Vector Product N=10000000 Run #5 ====
+Vector product calculated (first 10 elements): 748 2664 1863 740 2268 1681 1035 198 260 3942
+Total parallel time: 0.0348488 sec
+
+N=10000000 Sequential min: 0, max: 999, Time: 0.0698722 sec
+==== Parallel Min/Max N=10000000 Run #1 ====
+Min: 0, Max: 999
+Total parallel time: 0.0328351 sec
+
+N=10000000 Sequential min: 0, max: 999, Time: 0.0678176 sec
+==== Parallel Min/Max N=10000000 Run #2 ====
+Min: 0, Max: 999
+Total parallel time: 0.0261269 sec
+
+N=10000000 Sequential min: 0, max: 999, Time: 0.0680566 sec
+==== Parallel Min/Max N=10000000 Run #3 ====
+Min: 0, Max: 999
+Total parallel time: 0.0243371 sec
+
+N=10000000 Sequential min: 0, max: 999, Time: 0.0690263 sec
+==== Parallel Min/Max N=10000000 Run #4 ====
+Min: 0, Max: 999
+Total parallel time: 0.0250303 sec
+
+N=10000000 Sequential min: 0, max: 999, Time: 0.0678228 sec
+==== Parallel Min/Max N=10000000 Run #5 ====
+Min: 0, Max: 999
+Total parallel time: 0.0278538 sec
+
+N=10000000 Sequential average: 496.759, Time: 0.0232644 sec
+==== Parallel Average N=10000000 Run #1 ====
+Average: 496.759
+Total parallel time: 0.0139342 sec
+
+N=10000000 Sequential average: 496.759, Time: 0.0238664 sec
+==== Parallel Average N=10000000 Run #2 ====
+Average: 496.759
+Total parallel time: 0.0142732 sec
+
+N=10000000 Sequential average: 496.759, Time: 0.0233775 sec
+==== Parallel Average N=10000000 Run #3 ====
+Average: 496.759
+Total parallel time: 0.0135889 sec
+
+N=10000000 Sequential average: 496.759, Time: 0.0240492 sec
+==== Parallel Average N=10000000 Run #4 ====
+Average: 496.759
+Total parallel time: 0.0142645 sec
+
+N=10000000 Sequential average: 496.759, Time: 0.0236822 sec
+==== Parallel Average N=10000000 Run #5 ====
+Average: 496.759
+Total parallel time: 0.0138387 sec
+
+==========================================
+COMPLETED TESTS FOR N = 10000000
+==========================================
+
+==========================================
+STARTING TESTS FOR N = 50000000
+==========================================
+
+N=50000000 Sequential scalar product: 122367261463, Time: 0.140897 sec
+==== Parallel Scalar Product N=50000000 Run #1 ====
+Scatter time: 0.0908273 sec
+Compute time: 0.0374346 sec
+Reduce time: 0.0148378 sec
+Scalar product: 122367261463
+Total parallel time: 0.169426 sec
+
+N=50000000 Sequential scalar product: 122367261463, Time: 0.156342 sec
+==== Parallel Scalar Product N=50000000 Run #2 ====
+Scatter time: 0.116238 sec
+Compute time: 0.0368594 sec
+Reduce time: 0.0202493 sec
+Scalar product: 122367261463
+Total parallel time: 0.229691 sec
+
+N=50000000 Sequential scalar product: 122367261463, Time: 0.166396 sec
+==== Parallel Scalar Product N=50000000 Run #3 ====
+Scatter time: 0.113931 sec
+Compute time: 0.0370499 sec
+Reduce time: 0.0227789 sec
+Scalar product: 122367261463
+Total parallel time: 0.25665 sec
+
+N=50000000 Sequential scalar product: 122367261463, Time: 0.15798 sec
+==== Parallel Scalar Product N=50000000 Run #4 ====
+Scatter time: 0.0960378 sec
+Compute time: 0.0412046 sec
+Reduce time: 0.0158966 sec
+Scalar product: 122367261463
+Total parallel time: 0.180351 sec
+
+N=50000000 Sequential scalar product: 122367261463, Time: 0.166386 sec
+==== Parallel Scalar Product N=50000000 Run #5 ====
+Scatter time: 0.103042 sec
+Compute time: 0.0386054 sec
+Reduce time: 0.0194207 sec
+Scalar product: 122367261463
+Total parallel time: 0.193154 sec
+
+N=50000000 Sequential vector product (first 10): 5372 3456 392 245 1505 890 1305 4292 4408 2695 , Time: 0.300113 sec
+==== Parallel Vector Product N=50000000 Run #1 ====
+Vector product calculated (first 10 elements): 5372 3456 392 245 1505 890 1305 4292 4408 2695
+Total parallel time: 0.33325 sec
+
+N=50000000 Sequential vector product (first 10): 5372 3456 392 245 1505 890 1305 4292 4408 2695 , Time: 0.287694 sec
+==== Parallel Vector Product N=50000000 Run #2 ====
+Vector product calculated (first 10 elements): 5372 3456 392 245 1505 890 1305 4292 4408 2695
+Total parallel time: 0.310958 sec
+
+N=50000000 Sequential vector product (first 10): 5372 3456 392 245 1505 890 1305 4292 4408 2695 , Time: 0.349072 sec
+==== Parallel Vector Product N=50000000 Run #3 ====
+Vector product calculated (first 10 elements): 5372 3456 392 245 1505 890 1305 4292 4408 2695
+Total parallel time: 0.329939 sec
+
+N=50000000 Sequential vector product (first 10): 5372 3456 392 245 1505 890 1305 4292 4408 2695 , Time: 0.336057 sec
+==== Parallel Vector Product N=50000000 Run #4 ====
+Vector product calculated (first 10 elements): 5372 3456 392 245 1505 890 1305 4292 4408 2695
+Total parallel time: 0.318542 sec
+
+N=50000000 Sequential vector product (first 10): 5372 3456 392 245 1505 890 1305 4292 4408 2695 , Time: 0.341099 sec
+==== Parallel Vector Product N=50000000 Run #5 ====
+Vector product calculated (first 10 elements): 5372 3456 392 245 1505 890 1305 4292 4408 2695
+Total parallel time: 0.324648 sec
+
+N=50000000 Sequential min: 0, max: 999, Time: 0.852059 sec
+==== Parallel Min/Max N=50000000 Run #1 ====
+Min: 0, Max: 999
+Total parallel time: 0.229265 sec
+
+N=50000000 Sequential min: 0, max: 999, Time: 0.938382 sec
+==== Parallel Min/Max N=50000000 Run #2 ====
+Min: 0, Max: 999
+Total parallel time: 0.243706 sec
+
+N=50000000 Sequential min: 0, max: 999, Time: 0.850848 sec
+==== Parallel Min/Max N=50000000 Run #3 ====
+Min: 0, Max: 999
+Total parallel time: 0.237451 sec
+
+N=50000000 Sequential min: 0, max: 999, Time: 0.903427 sec
+==== Parallel Min/Max N=50000000 Run #4 ====
+Min: 0, Max: 999
+Total parallel time: 0.248031 sec
+
+N=50000000 Sequential min: 0, max: 999, Time: 1.02046 sec
+==== Parallel Min/Max N=50000000 Run #5 ====
+Min: 0, Max: 999
+Total parallel time: 0.235555 sec
+
+N=50000000 Sequential average: 496.725, Time: 0.32919 sec
+==== Parallel Average N=50000000 Run #1 ====
+Average: 496.725
+Total parallel time: 0.112216 sec
+
+N=50000000 Sequential average: 496.725, Time: 0.321961 sec
+==== Parallel Average N=50000000 Run #2 ====
+Average: 496.725
+Total parallel time: 0.132537 sec
+
+N=50000000 Sequential average: 496.725, Time: 0.257323 sec
+==== Parallel Average N=50000000 Run #3 ====
+Average: 496.725
+Total parallel time: 0.133772 sec
+
+N=50000000 Sequential average: 496.725, Time: 0.249494 sec
+==== Parallel Average N=50000000 Run #4 ====
+Average: 496.725
+Total parallel time: 0.13525 sec
+
+N=50000000 Sequential average: 496.725, Time: 0.267128 sec
+==== Parallel Average N=50000000 Run #5 ====
+Average: 496.725
+Total parallel time: 0.128225 sec
+
+==========================================
+COMPLETED TESTS FOR N = 50000000
+==========================================
