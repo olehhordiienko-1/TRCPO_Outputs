@@ -1,0 +1,290 @@
+==========================================
+STARTING TESTS FOR N = 1000 (x10000 FOR AVERAGE)
+==========================================
+
+N=1000 Sequential vector-matrix product (first 10): 2371977 2568649 2523768 2446208 2510427 2552823 2481241 2462048 2480579 2460067 , Time: 0.0027533 sec
+==== Parallel Vector-Matrix Product N=1000 Run #1 ====
+Vector-matrix product calculated (first 10 elements): 2371977 2568649 2523768 2446208 2510427 2552823 2481241 2462048 2480579 2460067 
+Total parallel time: 0.0050773 sec
+
+N=1000 Sequential vector-matrix product (first 10): 2371977 2568649 2523768 2446208 2510427 2552823 2481241 2462048 2480579 2460067 , Time: 0.0027322 sec
+==== Parallel Vector-Matrix Product N=1000 Run #2 ====
+Vector-matrix product calculated (first 10 elements): 2371977 2568649 2523768 2446208 2510427 2552823 2481241 2462048 2480579 2460067 
+Total parallel time: 0.0048641 sec
+
+N=1000 Sequential vector-matrix product (first 10): 2371977 2568649 2523768 2446208 2510427 2552823 2481241 2462048 2480579 2460067 , Time: 0.0027259 sec
+==== Parallel Vector-Matrix Product N=1000 Run #3 ====
+Vector-matrix product calculated (first 10 elements): 2371977 2568649 2523768 2446208 2510427 2552823 2481241 2462048 2480579 2460067 
+Total parallel time: 0.0051783 sec
+
+N=1000 Sequential vector-matrix product (first 10): 2371977 2568649 2523768 2446208 2510427 2552823 2481241 2462048 2480579 2460067 , Time: 0.0027139 sec
+==== Parallel Vector-Matrix Product N=1000 Run #4 ====
+Vector-matrix product calculated (first 10 elements): 2371977 2568649 2523768 2446208 2510427 2552823 2481241 2462048 2480579 2460067 
+Total parallel time: 0.0049178 sec
+
+N=1000 Sequential vector-matrix product (first 10): 2371977 2568649 2523768 2446208 2510427 2552823 2481241 2462048 2480579 2460067 , Time: 0.002712 sec
+==== Parallel Vector-Matrix Product N=1000 Run #5 ====
+Vector-matrix product calculated (first 10 elements): 2371977 2568649 2523768 2446208 2510427 2552823 2481241 2462048 2480579 2460067 
+Total parallel time: 0.0048504 sec
+
+N=10000000 Sequential average: 496.752, Time: 0.0235577 sec
+==== Parallel Average N=10000000 Run #1 ====
+Average: 496.752
+Total parallel time: 0.0212033 sec
+
+N=10000000 Sequential average: 496.752, Time: 0.0234453 sec
+==== Parallel Average N=10000000 Run #2 ====
+Average: 496.752
+Total parallel time: 0.0210896 sec
+
+N=10000000 Sequential average: 496.752, Time: 0.024001 sec
+==== Parallel Average N=10000000 Run #3 ====
+Average: 496.752
+Total parallel time: 0.0213652 sec
+
+N=10000000 Sequential average: 496.752, Time: 0.024034 sec
+==== Parallel Average N=10000000 Run #4 ====
+Average: 496.752
+Total parallel time: 0.0220317 sec
+
+N=10000000 Sequential average: 496.752, Time: 0.02403 sec
+==== Parallel Average N=10000000 Run #5 ====
+Average: 496.752
+Total parallel time: 0.0223562 sec
+
+==========================================
+COMPLETED TESTS FOR N = 1000
+==========================================
+
+==========================================
+STARTING TESTS FOR N = 2500 (x10000 FOR AVERAGE)
+==========================================
+
+N=2500 Sequential vector-matrix product (first 10): 6209303 6204886 6113365 6080868 6249965 6099908 6121000 6105158 6116116 6169753 , Time: 0.0173248 sec
+==== Parallel Vector-Matrix Product N=2500 Run #1 ====
+Vector-matrix product calculated (first 10 elements): 6209303 6204886 6113365 6080868 6249965 6099908 6121000 6105158 6116116 6169753 
+Total parallel time: 0.031916 sec
+
+N=2500 Sequential vector-matrix product (first 10): 6209303 6204886 6113365 6080868 6249965 6099908 6121000 6105158 6116116 6169753 , Time: 0.0176081 sec
+==== Parallel Vector-Matrix Product N=2500 Run #2 ====
+Vector-matrix product calculated (first 10 elements): 6209303 6204886 6113365 6080868 6249965 6099908 6121000 6105158 6116116 6169753 
+Total parallel time: 0.0312598 sec
+
+N=2500 Sequential vector-matrix product (first 10): 6209303 6204886 6113365 6080868 6249965 6099908 6121000 6105158 6116116 6169753 , Time: 0.017402 sec
+==== Parallel Vector-Matrix Product N=2500 Run #3 ====
+Vector-matrix product calculated (first 10 elements): 6209303 6204886 6113365 6080868 6249965 6099908 6121000 6105158 6116116 6169753 
+Total parallel time: 0.0319072 sec
+
+N=2500 Sequential vector-matrix product (first 10): 6209303 6204886 6113365 6080868 6249965 6099908 6121000 6105158 6116116 6169753 , Time: 0.0175529 sec
+==== Parallel Vector-Matrix Product N=2500 Run #4 ====
+Vector-matrix product calculated (first 10 elements): 6209303 6204886 6113365 6080868 6249965 6099908 6121000 6105158 6116116 6169753 
+Total parallel time: 0.0307221 sec
+
+N=2500 Sequential vector-matrix product (first 10): 6209303 6204886 6113365 6080868 6249965 6099908 6121000 6105158 6116116 6169753 , Time: 0.0173801 sec
+==== Parallel Vector-Matrix Product N=2500 Run #5 ====
+Vector-matrix product calculated (first 10 elements): 6209303 6204886 6113365 6080868 6249965 6099908 6121000 6105158 6116116 6169753 
+Total parallel time: 0.031091 sec
+
+N=25000000 Sequential average: 496.766, Time: 0.0599643 sec
+==== Parallel Average N=25000000 Run #1 ====
+Average: 496.766
+Total parallel time: 0.052567 sec
+
+N=25000000 Sequential average: 496.766, Time: 0.0586133 sec
+==== Parallel Average N=25000000 Run #2 ====
+Average: 496.766
+Total parallel time: 0.0521416 sec
+
+N=25000000 Sequential average: 496.766, Time: 0.0584799 sec
+==== Parallel Average N=25000000 Run #3 ====
+Average: 496.766
+Total parallel time: 0.0530873 sec
+
+N=25000000 Sequential average: 496.766, Time: 0.0581426 sec
+==== Parallel Average N=25000000 Run #4 ====
+Average: 496.766
+Total parallel time: 0.0520328 sec
+
+N=25000000 Sequential average: 496.766, Time: 0.0585543 sec
+==== Parallel Average N=25000000 Run #5 ====
+Average: 496.766
+Total parallel time: 0.0559892 sec
+
+==========================================
+COMPLETED TESTS FOR N = 2500
+==========================================
+
+==========================================
+STARTING TESTS FOR N = 5000 (x10000 FOR AVERAGE)
+==========================================
+
+N=5000 Sequential vector-matrix product (first 10): 12283151 12219631 12076696 12240756 12190748 12057274 12141640 12344251 12225282 12113948 , Time: 0.0674832 sec
+==== Parallel Vector-Matrix Product N=5000 Run #1 ====
+Vector-matrix product calculated (first 10 elements): 12283151 12219631 12076696 12240756 12190748 12057274 12141640 12344251 12225282 12113948 
+Total parallel time: 0.121543 sec
+
+N=5000 Sequential vector-matrix product (first 10): 12283151 12219631 12076696 12240756 12190748 12057274 12141640 12344251 12225282 12113948 , Time: 0.0684407 sec
+==== Parallel Vector-Matrix Product N=5000 Run #2 ====
+Vector-matrix product calculated (first 10 elements): 12283151 12219631 12076696 12240756 12190748 12057274 12141640 12344251 12225282 12113948 
+Total parallel time: 0.123572 sec
+
+N=5000 Sequential vector-matrix product (first 10): 12283151 12219631 12076696 12240756 12190748 12057274 12141640 12344251 12225282 12113948 , Time: 0.0679135 sec
+==== Parallel Vector-Matrix Product N=5000 Run #3 ====
+Vector-matrix product calculated (first 10 elements): 12283151 12219631 12076696 12240756 12190748 12057274 12141640 12344251 12225282 12113948 
+Total parallel time: 0.12159 sec
+
+N=5000 Sequential vector-matrix product (first 10): 12283151 12219631 12076696 12240756 12190748 12057274 12141640 12344251 12225282 12113948 , Time: 0.0675954 sec
+==== Parallel Vector-Matrix Product N=5000 Run #4 ====
+Vector-matrix product calculated (first 10 elements): 12283151 12219631 12076696 12240756 12190748 12057274 12141640 12344251 12225282 12113948 
+Total parallel time: 0.129672 sec
+
+N=5000 Sequential vector-matrix product (first 10): 12283151 12219631 12076696 12240756 12190748 12057274 12141640 12344251 12225282 12113948 , Time: 0.0687374 sec
+==== Parallel Vector-Matrix Product N=5000 Run #5 ====
+Vector-matrix product calculated (first 10 elements): 12283151 12219631 12076696 12240756 12190748 12057274 12141640 12344251 12225282 12113948 
+Total parallel time: 0.127874 sec
+
+N=50000000 Sequential average: 496.74, Time: 0.243716 sec
+==== Parallel Average N=50000000 Run #1 ====
+Average: 496.74
+Total parallel time: 0.201343 sec
+
+N=50000000 Sequential average: 496.74, Time: 0.222631 sec
+==== Parallel Average N=50000000 Run #2 ====
+Average: 496.74
+Total parallel time: 0.216386 sec
+
+N=50000000 Sequential average: 496.74, Time: 0.243047 sec
+==== Parallel Average N=50000000 Run #3 ====
+Average: 496.74
+Total parallel time: 0.207208 sec
+
+N=50000000 Sequential average: 496.74, Time: 0.249058 sec
+==== Parallel Average N=50000000 Run #4 ====
+Average: 496.74
+Total parallel time: 0.196105 sec
+
+N=50000000 Sequential average: 496.74, Time: 0.268868 sec
+==== Parallel Average N=50000000 Run #5 ====
+Average: 496.74
+Total parallel time: 0.193182 sec
+
+==========================================
+COMPLETED TESTS FOR N = 5000
+==========================================
+
+==========================================
+STARTING TESTS FOR N = 7500 (x10000 FOR AVERAGE)
+==========================================
+
+N=7500 Sequential vector-matrix product (first 10): 18481359 18392256 18359035 18420641 18331438 18202557 18312226 18403771 17940255 18270584 , Time: 0.355798 sec
+==== Parallel Vector-Matrix Product N=7500 Run #1 ====
+Vector-matrix product calculated (first 10 elements): 18481359 18392256 18359035 18420641 18331438 18202557 18312226 18403771 17940255 18270584 
+Total parallel time: 0.555869 sec
+
+N=7500 Sequential vector-matrix product (first 10): 18481359 18392256 18359035 18420641 18331438 18202557 18312226 18403771 17940255 18270584 , Time: 0.330147 sec
+==== Parallel Vector-Matrix Product N=7500 Run #2 ====
+Vector-matrix product calculated (first 10 elements): 18481359 18392256 18359035 18420641 18331438 18202557 18312226 18403771 17940255 18270584 
+Total parallel time: 0.576662 sec
+
+N=7500 Sequential vector-matrix product (first 10): 18481359 18392256 18359035 18420641 18331438 18202557 18312226 18403771 17940255 18270584 , Time: 0.321621 sec
+==== Parallel Vector-Matrix Product N=7500 Run #3 ====
+Vector-matrix product calculated (first 10 elements): 18481359 18392256 18359035 18420641 18331438 18202557 18312226 18403771 17940255 18270584 
+Total parallel time: 0.532973 sec
+
+N=7500 Sequential vector-matrix product (first 10): 18481359 18392256 18359035 18420641 18331438 18202557 18312226 18403771 17940255 18270584 , Time: 0.334069 sec
+==== Parallel Vector-Matrix Product N=7500 Run #4 ====
+Vector-matrix product calculated (first 10 elements): 18481359 18392256 18359035 18420641 18331438 18202557 18312226 18403771 17940255 18270584 
+Total parallel time: 0.564376 sec
+
+N=7500 Sequential vector-matrix product (first 10): 18481359 18392256 18359035 18420641 18331438 18202557 18312226 18403771 17940255 18270584 , Time: 0.319574 sec
+==== Parallel Vector-Matrix Product N=7500 Run #5 ====
+Vector-matrix product calculated (first 10 elements): 18481359 18392256 18359035 18420641 18331438 18202557 18312226 18403771 17940255 18270584 
+Total parallel time: 0.535368 sec
+
+N=75000000 Sequential average: 496.764, Time: 0.370012 sec
+==== Parallel Average N=75000000 Run #1 ====
+Average: 496.764
+Total parallel time: 0.302488 sec
+
+N=75000000 Sequential average: 496.764, Time: 0.345118 sec
+==== Parallel Average N=75000000 Run #2 ====
+Average: 496.764
+Total parallel time: 0.298906 sec
+
+N=75000000 Sequential average: 496.764, Time: 0.384273 sec
+==== Parallel Average N=75000000 Run #3 ====
+Average: 496.764
+Total parallel time: 0.281077 sec
+
+N=75000000 Sequential average: 496.764, Time: 0.347508 sec
+==== Parallel Average N=75000000 Run #4 ====
+Average: 496.764
+Total parallel time: 0.315906 sec
+
+N=75000000 Sequential average: 496.764, Time: 0.372927 sec
+==== Parallel Average N=75000000 Run #5 ====
+Average: 496.764
+Total parallel time: 0.314844 sec
+
+==========================================
+COMPLETED TESTS FOR N = 7500
+==========================================
+
+==========================================
+STARTING TESTS FOR N = 10000 (x10000 FOR AVERAGE)
+==========================================
+
+N=10000 Sequential vector-matrix product (first 10): 24422531 24363762 24803865 24369944 24627790 24390092 24384383 24575364 24088317 24274397 , Time: 0.542585 sec
+==== Parallel Vector-Matrix Product N=10000 Run #1 ====
+Vector-matrix product calculated (first 10 elements): 24422531 24363762 24803865 24369944 24627790 24390092 24384383 24575364 24088317 24274397 
+Total parallel time: 0.880843 sec
+
+N=10000 Sequential vector-matrix product (first 10): 24422531 24363762 24803865 24369944 24627790 24390092 24384383 24575364 24088317 24274397 , Time: 0.579786 sec
+==== Parallel Vector-Matrix Product N=10000 Run #2 ====
+Vector-matrix product calculated (first 10 elements): 24422531 24363762 24803865 24369944 24627790 24390092 24384383 24575364 24088317 24274397 
+Total parallel time: 0.908545 sec
+
+N=10000 Sequential vector-matrix product (first 10): 24422531 24363762 24803865 24369944 24627790 24390092 24384383 24575364 24088317 24274397 , Time: 0.564733 sec
+==== Parallel Vector-Matrix Product N=10000 Run #3 ====
+Vector-matrix product calculated (first 10 elements): 24422531 24363762 24803865 24369944 24627790 24390092 24384383 24575364 24088317 24274397 
+Total parallel time: 1.06297 sec
+
+N=10000 Sequential vector-matrix product (first 10): 24422531 24363762 24803865 24369944 24627790 24390092 24384383 24575364 24088317 24274397 , Time: 0.627844 sec
+==== Parallel Vector-Matrix Product N=10000 Run #4 ====
+Vector-matrix product calculated (first 10 elements): 24422531 24363762 24803865 24369944 24627790 24390092 24384383 24575364 24088317 24274397 
+Total parallel time: 0.949276 sec
+
+N=10000 Sequential vector-matrix product (first 10): 24422531 24363762 24803865 24369944 24627790 24390092 24384383 24575364 24088317 24274397 , Time: 0.552611 sec
+==== Parallel Vector-Matrix Product N=10000 Run #5 ====
+Vector-matrix product calculated (first 10 elements): 24422531 24363762 24803865 24369944 24627790 24390092 24384383 24575364 24088317 24274397 
+Total parallel time: 0.963291 sec
+
+N=100000000 Sequential average: 496.756, Time: 0.536044 sec
+==== Parallel Average N=100000000 Run #1 ====
+Average: 496.756
+Total parallel time: 0.404378 sec
+
+N=100000000 Sequential average: 496.756, Time: 0.573185 sec
+==== Parallel Average N=100000000 Run #2 ====
+Average: 496.756
+Total parallel time: 0.413873 sec
+
+N=100000000 Sequential average: 496.756, Time: 0.481342 sec
+==== Parallel Average N=100000000 Run #3 ====
+Average: 496.756
+Total parallel time: 0.431071 sec
+
+N=100000000 Sequential average: 496.756, Time: 0.538363 sec
+==== Parallel Average N=100000000 Run #4 ====
+Average: 496.756
+Total parallel time: 0.3846 sec
+
+N=100000000 Sequential average: 496.756, Time: 0.484821 sec
+==== Parallel Average N=100000000 Run #5 ====
+Average: 496.756
+Total parallel time: 0.453221 sec
+
+==========================================
+COMPLETED TESTS FOR N = 10000
+==========================================
+
